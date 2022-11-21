@@ -1,0 +1,8 @@
+.modal p{
+    display: block;
+}
+
+.modal.hide{
+    display: none;
+
+}
